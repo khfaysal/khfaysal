@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khfaysal" alt="khfaysal" /></a> </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=6CF727&width=435&lines=%7C+Code+-%3E+Debug+-%3E+Optimize+%7C;Building+Responsive+Web+Interfaces;Clean+UI+%7C+Smooth+UX+%7C+Scalable+Code;Modern+JavaScript+(ES6%2B);Frontend+Developer;Problem+Solver)](https://git.io/typing-svg)
+
 - 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/diu.edu.bd/kamruls-portfolio/home](https://sites.google.com/diu.edu.bd/kamruls-portfolio/home)
