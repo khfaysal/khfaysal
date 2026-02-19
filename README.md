@@ -10,7 +10,7 @@
 ---
 
 <div align="left">
-## 🧠 About Me
+  🧠 About Me
   
 - 🌱 I’m currently learning **MERN STACK**  
 - 👨‍💻 All of my projects are available at  
