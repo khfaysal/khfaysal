@@ -9,8 +9,9 @@
 
 ---
 
-<div align="center">
-
+<div align="left">
+## 🧠 About Me
+  
 - 🌱 I’m currently learning **MERN STACK**  
 - 👨‍💻 All of my projects are available at  
   https://sites.google.com/diu.edu.bd/kamruls-portfolio/home  
@@ -23,7 +24,7 @@
 
 ## 🔥 GitHub Streak
 
-<div align="center">
+<div align="left">
 
 ![](https://nirzak-streak-stats.vercel.app/?user=khfaysal&theme=dark&hide_border=false)
 
@@ -31,9 +32,9 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 
-<div align="center">
+<div align="left">
 
 <a href="https://twitter.com/44kamrulhasan" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
@@ -63,9 +64,9 @@
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
-<div align="center">
+<div align="left">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
