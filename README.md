@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kamrul Hasan</h1>
 <h3 align="center">A driven learner crafting my path in Full Stack development.</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=khfaysal&label=Profile%20views&color=0e75b6&style=flat" alt="khfaysal" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=%7C+Code+-%3E+Debug+-%3E+Optimize+%7C;Building+Responsive+Web+Interfaces;Clean+UI+%7C+Smooth+UX+%7C+Scalable+Code;Modern+JavaScript+(ES6%2B);Frontend+Developer;Problem+Solver)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khfaysal" alt="khfaysal" /></a> </p> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=6CF727&center=true&vCenter=true&width=450&height=54&lines=%7C+Code+-%3E+Debug+-%3E+Optimize+%7C;Building+Responsive+Web+Interfaces;Clean+UI+%7C+Smooth+UX+%7C+Scalable+Code;Modern+JavaScript+(ES6%2B);Frontend+Developer;Problem+Solver)](https://git.io/typing-svg)
+## 🧠 About Me
 
 - 🌱 I’m currently learning **MERN STACK**
 
