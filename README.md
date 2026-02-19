@@ -9,14 +9,14 @@
 
 ---
 
-<div align="left">
-  🧠 About Me
+<div align="center">
+   🧠 About Me
   
-- 🌱 I’m currently learning **MERN STACK**  
-- 👨‍💻 All of my projects are available at  
+ 🌱 I’m currently learning **MERN STACK**  
+👨‍💻 All of my projects are available at  
   https://sites.google.com/diu.edu.bd/kamruls-portfolio/home  
-- 💬 Ask me about **React, JavaScript**  
-- 📫 How to reach me **k.hasanfaysal@gmail.com**
+💬 Ask me about **React, JavaScript**  
+ 📫 How to reach me **k.hasanfaysal@gmail.com**
 
 </div>
 
