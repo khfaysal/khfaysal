@@ -11,7 +11,7 @@
 
 <div align="left">
 
-## 🧠 About Me
+## 🧠 About Me –
 
 ✨ Passionate about building modern web applications  
 🌱 Currently learning **MERN Stack**  
