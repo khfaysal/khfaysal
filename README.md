@@ -28,16 +28,13 @@
 
 ---
 
-## 🔥 GitHub Streak
+<h2 align="center">
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
 
-<div align="left">
-
-  <img 
-    src="https://streak-stats.demolab.com?user=khfaysal&theme=tokyonight"
-    height="170px"
-  />
-
-</div>
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=khfaysal&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
 
 ---
 
@@ -73,9 +70,9 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
-<div align="left">
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
