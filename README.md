@@ -38,20 +38,28 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Reach me out on</h3>
 
-<div align="left">
+<div align="center">
 
-<a href="https://twitter.com/44kamrulhasan" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+<a href="mailto:k.hasanfaysal@gmail.com" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" />
 </a>
 
 <a href="https://www.linkedin.com/in/kamrulhasanfaysal/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 
+<a href="https://twitter.com/44kamrulhasan" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+</a>
+
 <a href="https://www.facebook.com/44kamrulhasan" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+</a>
+
+<a href="https://discord.gg/4VYAQHZX" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
 </a>
 
 <a href="https://codeforces.com/profile/khfaysal" target="_blank">
@@ -60,10 +68,6 @@
 
 <a href="https://www.leetcode.com/khfaysal" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
-
-<a href="https://discord.gg/4VYAQHZX" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
 </a>
 
 </div>
