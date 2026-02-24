@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" />
+  <img src="./assets/git-img.jpg" width="100%" />
 </p>
 
 <div align="center">
@@ -15,7 +15,13 @@
 ## 🧠 About Me –
 
 <p align="center">
-✨ Passionate about building modern, user-focused web applications and continuously improving my skills as a developer. 🌱 Currently exploring the MERN Stack while creating real projects that strengthen my problem-solving and frontend development experience. 👨‍💻 You can explore my work through my portfolio and see how I turn ideas into clean, functional web experiences. 💬 Feel free to ask me about React, JavaScript, or web development — I enjoy discussing technology and sharing what I learn. 📫 You can reach me anytime at ✉️ <a href="mailto:k.hasanfaysal@gmail.com">k.hasanfaysal@gmail.com</a>.
+
+✨ Passionate about building modern, user-focused web applications.<br>
+🌱 Currently learning and exploring the MERN Stack.<br>
+👨‍💻 Building real projects to improve problem-solving and development skills.<br>
+💬 Ask me about React, JavaScript, and web development.<br>
+📫 Reach me at ✉️ <a href="mailto:k.hasanfaysal@gmail.com">k.hasanfaysal@gmail.com</a>.
+
 </p>
 
 </div>
