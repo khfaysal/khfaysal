@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/git-img.jpg" width="100%" />
+  <img src="./assets/LinkedIn.png" width="100%" />
 </p>
 
 <div align="center">
