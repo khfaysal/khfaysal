@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" />
+  <img src="./assets/banner.svg" width="100%" />
 </p>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=6CF727&center=true&vCenter=true&width=450&height=54&lines=%7C+Code+-%3E+Debug+-%3E+Optimize+%7C;Building+Responsive+Web+Interfaces;Clean+UI+%7C+Smooth+UX+%7C+Scalable+Code;Modern+JavaScript+(ES6%2B);Frontend+Developer;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](<https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=6CF727&center=true&vCenter=true&width=450&height=54&lines=%7C+Code+-%3E+Debug+-%3E+Optimize+%7C;Building+Responsive+Web+Interfaces;Clean+UI+%7C+Smooth+UX+%7C+Scalable+Code;Modern+JavaScript+(ES6%2B);Frontend+Developer;Problem+Solver>)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,7 +20,6 @@
 
 </div>
 
-
 ---
 
 <h2 align="center">
@@ -29,7 +28,7 @@
 
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=khfaysal&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
+</p>
 
 ---
 
