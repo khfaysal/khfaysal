@@ -1,5 +1,33 @@
-<h1 align="center">Hi 👋, I'm Kamrul Hasan</h1>
-<h3 align="center">A driven learner crafting my path in Full Stack development.</h3>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape -->
+
+<svg width="396.875mm" height="109.1133mm" viewBox="0 0 396.875 109.1133" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(93.4375,-31.817509)">
+    <rect style="fill:#0d1116;fill-opacity:1;" width="396.875" height="109.1133" x="-93.4375" y="31.817509"/>
+
+    <text xml:space="preserve"
+      transform="matrix(0.24045605,0,0,0.24045605,-98.353002,10.607303)"
+      style="font-size:28px;line-height:1.25;font-family:Monospace;font-weight:bold;fill:#b3b3b3;white-space:pre">
+
+      <tspan x="81" y="189">  ______                    _ </tspan>
+      <tspan x="81" y="224"> |  ____|                  | |</tspan>
+      <tspan x="81" y="259"> | |__ __ _ _   _ ___  __ _| |</tspan>
+      <tspan x="81" y="295"> |  __/ _` | | | / __|/ _` | |</tspan>
+      <tspan x="81" y="330"> | | | (_| | |_| \__ \ (_| | |</tspan>
+      <tspan x="81" y="365"> |_|  \__,_|\__, |___/\__,_|_|</tspan>
+      <tspan x="81" y="400">             __/ |            </tspan>
+      <tspan x="81" y="435">            |___/   khfaysal  </tspan>
+
+    </text>
+
+    <text xml:space="preserve"
+      transform="matrix(0.24045605,0,0,0.24045605,-79.962752,74.287562)"
+      style="font-size:28px;line-height:1.25;font-family:Monospace;font-weight:bold;fill:#b3b3b3;">
+      <tspan x="27" y="189">$ npx faysal</tspan>
+    </text>
+
+  </g>
+</svg>
 
 <div align="center">
 
@@ -9,19 +37,13 @@
 
 ---
 
-<div align="left">
+<div align="center">
 
 ## 🧠 About Me –
 
-✨ Passionate about building modern web applications  
-🌱 Currently learning **MERN Stack**  
-👨‍💻 Explore my projects here:  
-🔗 **[My Portfolio](https://sites.google.com/diu.edu.bd/kamruls-portfolio/home)**  
-
-💬 Ask me about **React • JavaScript • Web Development**  
-
-📫 Reach me at  
-✉️ **k.hasanfaysal@gmail.com**
+<p align="center">
+✨ Passionate about building modern, user-focused web applications and continuously improving my skills as a developer. 🌱 Currently exploring the MERN Stack while creating real projects that strengthen my problem-solving and frontend development experience. 👨‍💻 You can explore my work through my portfolio and see how I turn ideas into clean, functional web experiences. 💬 Feel free to ask me about React, JavaScript, or web development — I enjoy discussing technology and sharing what I learn. 📫 You can reach me anytime at ✉️ <a href="mailto:k.hasanfaysal@gmail.com">k.hasanfaysal@gmail.com</a>.
+</p>
 
 </div>
 
