@@ -1,33 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape -->
-
-<svg width="396.875mm" height="109.1133mm" viewBox="0 0 396.875 109.1133" version="1.1" xmlns="http://www.w3.org/2000/svg">
-  <g transform="translate(93.4375,-31.817509)">
-    <rect style="fill:#0d1116;fill-opacity:1;" width="396.875" height="109.1133" x="-93.4375" y="31.817509"/>
-
-    <text xml:space="preserve"
-      transform="matrix(0.24045605,0,0,0.24045605,-98.353002,10.607303)"
-      style="font-size:28px;line-height:1.25;font-family:Monospace;font-weight:bold;fill:#b3b3b3;white-space:pre">
-
-      <tspan x="81" y="189">  ______                    _ </tspan>
-      <tspan x="81" y="224"> |  ____|                  | |</tspan>
-      <tspan x="81" y="259"> | |__ __ _ _   _ ___  __ _| |</tspan>
-      <tspan x="81" y="295"> |  __/ _` | | | / __|/ _` | |</tspan>
-      <tspan x="81" y="330"> | | | (_| | |_| \__ \ (_| | |</tspan>
-      <tspan x="81" y="365"> |_|  \__,_|\__, |___/\__,_|_|</tspan>
-      <tspan x="81" y="400">             __/ |            </tspan>
-      <tspan x="81" y="435">            |___/   khfaysal  </tspan>
-
-    </text>
-
-    <text xml:space="preserve"
-      transform="matrix(0.24045605,0,0,0.24045605,-79.962752,74.287562)"
-      style="font-size:28px;line-height:1.25;font-family:Monospace;font-weight:bold;fill:#b3b3b3;">
-      <tspan x="27" y="189">$ npx faysal</tspan>
-    </text>
-
-  </g>
-</svg>
+<p align="center">
+  <img src="assets/banner.svg" width="100%" />
+</p>
 
 <div align="center">
 
